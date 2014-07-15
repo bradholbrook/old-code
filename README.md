@@ -1,4 +1,4 @@
 RandomProjects
 ==============
 
-Collection of random algorithms and projects
+Storage for old bits of code.
